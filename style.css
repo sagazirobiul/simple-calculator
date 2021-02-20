@@ -65,7 +65,10 @@ h2{
     background-color: #EA2027;
     color: #ffffff;
 }
-
+#clear:hover {
+    border: none;
+    box-shadow: 0.1rem 0.2rem 0.1rem #d41c23;
+}
 
 /* Media query */
 @media all and (max-width: 576px){
