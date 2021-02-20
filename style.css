@@ -73,6 +73,6 @@ h2{
 /* Media query */
 @media all and (max-width: 576px){
     .calculator {
-        width: 97%;
+        width: 96%;
     }
 }
